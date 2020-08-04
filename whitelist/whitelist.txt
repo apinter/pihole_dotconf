@@ -1188,3 +1188,4 @@ www.tkqlhce.com
 www.tradetracker.net
 (\.|^)twimg\.com$
 instagram.com
+hangouts.google.com
