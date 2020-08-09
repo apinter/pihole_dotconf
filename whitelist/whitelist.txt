@@ -1189,3 +1189,15 @@ www.tradetracker.net
 (\.|^)twimg\.com$
 instagram.com
 hangouts.google.com
+(\.|^)linuxconfig\.org$
+(\.|^)outfit7\.com$	
+(\.|^)applovin\.com$	
+(\.|^)googlevideo\.com$
+imagesak.secureserver.net
+79423.analytics.edgekey.net
+(\.|^)ytimg\.com$
+update.intl.miui.com	
+sgpac.account.xiaomi.com
+find.api.micloud.xiaomi.net
+account.xiaomi.com
+api.account.xiaomi.com
