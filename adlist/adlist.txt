@@ -91,3 +91,4 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.o
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/zeustracker.abuse.ch/list.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://raw.githubusercontent.com/apinter/pihole_dotconf/master/adlist/xiaomi.list
